@@ -5,7 +5,7 @@ Occupation: Thief
 Background: Lost her family in the previous war that ravaged the outskirts of "Town". Since then, she has survived on the streets, thieving to make ends meet. Despite her situation, she maintains a spark of hope and a clever, if cautious, spirit.
 
 ## Appearance
-![[thanatosianonyx_A_seven_year_old_orphan_girl_with_vivid_green_e_b72f8e09-4488-495c-9a49-fba0a5547f8d.png]]
+![[dot.png]]
 Small and wiry, with sun-kissed skin and hair that hasn't seen a comb in weeks. Her clothes are a patchwork of different fabrics, clearly scavenged and adapted over time. Her eyes, a vivid shade of green, are wide and observant, always scanning her surroundings.
 
 ## Personality
