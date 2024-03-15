@@ -6,37 +6,7 @@ Alia of the Mirage serves as a guardian of the desert's secrets, aiding or chall
 ### Race and Class
 - **Race:** Human (Variant)
 - **Class:** Wizard
-- **Level:** 12-15 (As needed for campaign)
-
-### Ability Scores
-- **STR:** 8
-- **DEX:** 14
-- **CON:** 12
-- **INT:** 18 (Before racial or other adjustments)
-- **WIS:** 16
-- **CHA:** 14
-
-### Skills
-- **Arcana:** +10
-- **Nature:** +10
-- **Insight:** +8
-- **Deception:** +7
-
-### Saving Throws
-- **Intelligence:** +9
-- **Wisdom:** +8
-
-### Special Abilities and Spells
-- **Illusion Mastery:** Utilizes spells like *Mirage Arcane, Major Image,* and *Hallucinatory Terrain.*
-- **Sand Manipulation:** Creative adaptation of spells for controlling sand, akin to *Dust Devil* and *Wall of Sand.*
-- **Teleportation:** Spells like *Misty Step* and *Dimension Door* for swift movement.
-- **Divination:** *Divination* and *Scrying* to reflect her foresight.
-
-### Combat Stats
-- **HP:** 70-100 (Based on level and CON)
-- **AC:** 12 (Base, can increase with *Mage Armor* or *Shield*)
-- **Spell Save DC:** 17 (8 + Prof + INT modifier, before items/feats)
-- **Spell Attack Modifier:** +9 (Prof + INT modifier)
+- **Level:** 12
 
 ## Description
 - **Appearance:** Alia is an enigmatic figure, draped in robes that shimmer with the colors of the desert at dusk—gold, crimson, and deep violet. Her face is often obscured by a veil, and her eyes, the only visible part of her visage, glow with a soft, inner light. She moves with a grace that belies her sudden appearances and disappearances, as if she's a part of the desert itself.
