@@ -1,5 +1,3 @@
-# NPC: Alia of the Mirage
-
 ## Background
 Alia of the Mirage serves as a guardian of the desert's secrets, aiding or challenging those who traverse her domain. She is a figure woven from the fabric of legends, appearing as a mirage to guide, test, or mislead.
 
