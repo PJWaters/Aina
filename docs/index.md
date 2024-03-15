@@ -1,6 +1,6 @@
 # Welcome to the Chronicles of Aina
 
-Welcome to the official campaign site for **The Chronicles of Aina**, an epic adventure set in the mystical desert realm of Aina. Here, ancient magic, warring factions, and hidden secrets await those brave enough to explore its sands. Join us as we embark on a journey through a land where legends come to life, and destiny calls to the heroes of the age.
+Welcome to the official campaign site for **The Chronicles of Aina**, an epic adventure set in the mystical realm of Aina. Here, ancient magic, warring factions, and hidden secrets await those brave enough to explore its lands. Join us as we embark on a journey through a land where legends come to life, and destiny calls to the heroes of the age.
 
 ## Campaign Overview
 
