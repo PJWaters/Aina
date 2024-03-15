@@ -46,12 +46,5 @@ Alia of the Mirage serves as a guardian of the desert's secrets, aiding or chall
 - **Background:** Little is known about Alia's origins or how she came to possess her knowledge and powers. Rumors among the desert tribes speak of a guardian chosen by the desert itself, tasked with protecting its most sacred secrets and maintaining the balance between the natural and magical worlds.
 
 ![[alia.png]]
-## Role in the Story
-- Alia serves as a guide and mentor figure to the party, providing them with cryptic clues and warnings about the dangers they face from the Zephyrian Dominion and the secrets buried within the Shifting Sands. Her knowledge of the desert and its mysteries is unparalleled, making her an invaluable ally in the quest to unite the tribes and protect the desert.
-
-## Statblock Suggestions (Narrative)
-- **Abilities:** Alia is a powerful mage with a deep connection to the desert and its magic. She can manipulate sand and wind, create mirages, and possibly even control time and space within limited areas of the desert.
-- **Weaknesses:** Alia's powers are tied to the desert and its well-being. Actions that threaten the desert or disrupt its balance could weaken her or limit her abilities.
-- **Allies & Motivations:** Alia's primary motivation is the protection of the Shifting Sands and its secrets. She may have allies among the desert tribes, ancient spirits, or other mystical guardians of the desert. Her goals align with those who seek to protect the desert from external threats.
 
 Tags: #NPC #AliaOfTheMirage #Guide #Mentor #MagicUser
