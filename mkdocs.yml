@@ -1,8 +1,0 @@
-site_name: Chronicles of Aina
-theme: material
-plugins:
-  - obsidian-bridge
-  - search
-  - tags
-extra:
-  generator: false
