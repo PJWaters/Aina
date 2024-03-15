@@ -63,16 +63,16 @@ Tags: #Session6 #Rewards #Maps #Influence
 # Session 7: The Battle of Shifting Sands
 
 - **Rewards:**
-  - Level Up to 6
-  - A piece of Dominion technology or magic, repurposed for the player's use (DM's choice based on player preferences and campaign direction)
-  - The gratitude of the united tribes, leading to future aid and resources
+	- Level Up to 6
+	- A piece of Dominion technology or magic, repurposed for the player's use (DM's choice based on player preferences and campaign direction)
+	- The gratitude of the united tribes, leading to future aid and resources
 
 Tags: #Session7 #Rewards #LevelUp #Technology
 
 # Session 8: Fate's Horizon
 
 - **Rewards:**
-- "Key of the Desert" (a magical key that opens one lock anywhere in the world, symbolizing the unlocking of future potential and adventures beyond the desert).
-- Titles within the united tribes, offering political influence and responsibilities for future story arcs
+	- "Key of the Desert" (a magical key that opens one lock anywhere in the world, symbolizing the unlocking of future potential and adventures beyond the desert).
+	- Titles within the united tribes, offering political influence and responsibilities for future story arcs
 
 Tags: #Session8 #Rewards #Artifact #Titles
